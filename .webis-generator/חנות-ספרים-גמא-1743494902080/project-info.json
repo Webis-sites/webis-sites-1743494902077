@@ -1,0 +1,32 @@
+{
+  "projectDir": "חנות-ספרים-גמא-1743494902080",
+  "createdAt": "2025-04-01T08:08:25.939Z",
+  "formData": {
+    "businessName": "חנות ספרים גמא",
+    "businessType": "חנות ספרים",
+    "industry": "בריאות",
+    "businessSize": "medium",
+    "description": "אנחנו חנות ספרים מוביל בתחום האופנה עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#FFEEAD",
+    "typographyStyle": "modern",
+    "animationPreference": "moderate",
+    "headline": "חנות ספרים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": true,
+    "includeFAQ": false,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": true,
+    "metaDescription": "חנות ספרים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות ספרים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "minimalist"
+    ],
+    "features": []
+  }
+}
