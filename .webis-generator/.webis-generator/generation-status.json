@@ -1,10 +1,65 @@
 {
-  "timestamp": "2025-04-01T08:08:27.448Z",
+  "timestamp": "2025-04-01T08:08:59.074Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 9,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": []
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, subheadline, and call to action for the bookstore"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the bookstore's background, expertise, and unique value proposition"
+    },
+    {
+      "name": "FeaturedProducts",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of featured health-related books and products"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Overview of services offered by the bookstore"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking system for consultations or events"
+    },
+    {
+      "name": "PortfolioGallery",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Gallery showcasing the bookstore's events, workshops, and special collections"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials and reviews about the bookstore"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form for customer inquiries"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with essential links, contact information, and social media"
+    }
+  ]
 }
